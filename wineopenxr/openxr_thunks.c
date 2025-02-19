@@ -2870,6 +2870,7 @@ static const char * const xr_extensions[] =
     "XR_VARJO_view_offset",
     "XR_VARJO_xr4_controller_interaction",
     "XR_YVR_controller_interaction",
+    "XR_ULTRALEAP_hand_tracking_forearm"
 };
 
 BOOL wine_xr_extension_supported(const char *name)
